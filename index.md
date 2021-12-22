@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/Predict_Term_Deposit.pdf)
+[Predicting Term Deposit Subscription](/pdf/Predict_Term_Deposit.pdf)
 <img src="images/Screenshot 2021-12-22 125907.png?raw=true"/>
 
 ---
